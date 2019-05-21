@@ -1,0 +1,24 @@
+{
+  "blips": [
+    { "quadrant": "UnderWit", "name": "Unmistakeable", "score": 8, "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos blanditiis tenetur" },
+    { "quadrant": "UnderWit", "name": "Unmistak0", "score": 8, "desc": "" },
+    { "quadrant": "UnderWit", "name": "Unmistak1", "score": 8, "desc": "" },
+    { "quadrant": "UnderWit", "name": "Unmistak2", "score": 8, "desc": "" },
+    { "quadrant": "UnderWit", "name": "Showing", "score": 8 },
+
+    { "quadrant": "Sightworthy", "name": "Illustration", "score": 8, "desc": "aIllustration" },
+    { "quadrant": "Sightworthy", "name": "Silkworms", "score": 8 },
+    { "quadrant": "Sightworthy", "name": "Raising", "score": 7 },
+    { "quadrant": "Sightworthy", "name": "Organisms", "score": 7 },
+
+    { "quadrant": "whicker", "name": "planet ", "score": 7, "desc": "consectetur adipisicing consectetur adipisicing" },
+    { "quadrant": "whicker", "name": "Docker", "score": 8 },
+    { "quadrant": "whicker", "name": "planet ", "score": 7 },
+    { "quadrant": "whicker", "name": "Docker", "score": 8 },
+    { "quadrant": "whicker", "name": "Planet Mars", "score": 8 },
+
+    { "quadrant": "UPAS", "name": "XO", "score": 8, "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"},
+    { "quadrant": "UPAS", "name": "Measured", "score": 7 },
+    { "quadrant": "UPAS", "name": "With", "score": 6 }
+  ]
+}

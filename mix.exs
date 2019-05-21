@@ -38,7 +38,9 @@ defmodule VrBackend.MixProject do
       {:jason, "~> 1.0"},
       {:absinthe, "~> 1.4"},
       {:absinthe_plug, "~> 1.4"},
-      {:plug_cowboy, "~> 2.0"}
+      {:poison, "~> 3.1"},
+      {:cors_plug, "~> 2.0"},
+      {:plug_cowboy, "~> 2.0"},
     ]
   end
 end
