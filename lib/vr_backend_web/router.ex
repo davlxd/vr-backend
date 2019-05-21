@@ -2,7 +2,6 @@ defmodule VrBackendWeb.Router do
   use VrBackendWeb, :router
 
   pipeline :api do
-    plug CORSPlug, origin: ["http://localhost:4000"]
     plug :accepts, ["json"]
     plug VrBackendWeb.AuthContext
   end
