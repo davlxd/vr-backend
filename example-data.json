@@ -20,5 +20,9 @@
     { "quadrant": "UPAS", "name": "XO", "score": 8, "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"},
     { "quadrant": "UPAS", "name": "Measured", "score": 7 },
     { "quadrant": "UPAS", "name": "With", "score": 6 }
+  ],
+  "ranges": [
+    { "from": "2012-07", "to": "2014-03", "desc": "# hello, world" },
+    { "from": "2014-07", "to": "2019-01", "desc": "## world, hello" }
   ]
 }
