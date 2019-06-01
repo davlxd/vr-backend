@@ -11,6 +11,7 @@ defmodule VrBackendWeb.AuthContext do
     Logger.info "Logging this context: #{inspect context}"
 
     if context == %{} do
+      :timer.sleep(2500)
       conn
       |> send_resp(:unauthorized, Poison.encode!(%{error: ["Unauthorized"]}))
       |> halt
