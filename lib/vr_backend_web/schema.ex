@@ -26,6 +26,7 @@ defmodule VrBackendWeb.Schema do
     field :name, non_null(:string)
     field :quadrant, non_null(:string)
     field :score, non_null(:integer)
+    field :badge, :string
     field :desc, :string
   end
 
